@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 16c4e4c9332f8a840a59a77f789c7d86
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 162007988373375443
+    second: walls|armrest|Take 001|BaseLayer
+  - first:
+      74: 6365614679707768086
+    second: walls|armrest|Take 001|BaseLayer.001
+  - first:
+      74: 1251345522591412140
+    second: walls|beams|Take 001|BaseLayer
+  - first:
+      74: 1514920259236250267
+    second: walls|ceiling|Take 001|BaseLayer
+  - first:
+      74: -5726739760141981940
+    second: walls|chairs|Take 001|BaseLayer
+  - first:
+      74: 9201412139809605787
+    second: walls|chairs|Take 001|BaseLayer.001
+  - first:
+      74: 2361530415756484290
+    second: walls|floor|Take 001|BaseLayer
+  - first:
+      74: 8731261170580929607
+    second: walls|piano|Take 001|BaseLayer
+  - first:
+      74: -3720688020866476521
+    second: walls|seats|Take 001|BaseLayer
+  - first:
+      74: 308923392685469972
+    second: walls|seats|Take 001|BaseLayer.001
+  - first:
+      74: -4183727686161149357
+    second: walls|walls|Take 001|BaseLayer
+  - first:
+      74: 7548559059815241017
+    second: beams|armrest|Take 001|BaseLayer
+  - first:
+      74: -1113742001716675656
+    second: beams|armrest|Take 001|BaseLayer.001
+  - first:
+      74: 5262682897215100950
+    second: beams|beams|Take 001|BaseLayer
+  - first:
+      74: 3945298334275663984
+    second: beams|ceiling|Take 001|BaseLayer
+  - first:
+      74: -8802945546069395818
+    second: beams|chairs|Take 001|BaseLayer
+  - first:
+      74: 4554976368976252401
+    second: beams|chairs|Take 001|BaseLayer.001
+  - first:
+      74: 675747513913373798
+    second: beams|floor|Take 001|BaseLayer
+  - first:
+      74: 6480413486856597969
+    second: beams|piano|Take 001|BaseLayer
+  - first:
+      74: 1562730344713198979
+    second: beams|seats|Take 001|BaseLayer
+  - first:
+      74: -2161430939883112624
+    second: beams|seats|Take 001|BaseLayer.001
+  - first:
+      74: -2507534150454872957
+    second: beams|walls|Take 001|BaseLayer
+  - first:
+      74: 3886102876636191964
+    second: floor|armrest|Take 001|BaseLayer
+  - first:
+      74: 1833210201160858419
+    second: floor|armrest|Take 001|BaseLayer.001
+  - first:
+      74: -5940559529649796304
+    second: floor|beams|Take 001|BaseLayer
+  - first:
+      74: -2825374759143449556
+    second: floor|ceiling|Take 001|BaseLayer
+  - first:
+      74: -5268809198844067849
+    second: floor|chairs|Take 001|BaseLayer
+  - first:
+      74: 2689843754999546109
+    second: floor|chairs|Take 001|BaseLayer.001
+  - first:
+      74: -4092883792410405379
+    second: floor|floor|Take 001|BaseLayer
+  - first:
+      74: -5517634034203090091
+    second: floor|piano|Take 001|BaseLayer
+  - first:
+      74: 7086619982202054430
+    second: floor|seats|Take 001|BaseLayer
+  - first:
+      74: -3754458418579572830
+    second: floor|seats|Take 001|BaseLayer.001
+  - first:
+      74: -8655851043913651894
+    second: floor|walls|Take 001|BaseLayer
+  - first:
+      74: -6005650786681555397
+    second: chairs|armrest|Take 001|BaseLayer
+  - first:
+      74: 3038030164778529496
+    second: chairs|armrest|Take 001|BaseLayer.001
+  - first:
+      74: 6899631392828667307
+    second: chairs|beams|Take 001|BaseLayer
+  - first:
+      74: 7383968836341739878
+    second: chairs|ceiling|Take 001|BaseLayer
+  - first:
+      74: 5808626930636635153
+    second: chairs|chairs|Take 001|BaseLayer
+  - first:
+      74: 1637041815052501064
+    second: chairs|chairs|Take 001|BaseLayer.001
+  - first:
+      74: -748845727044725322
+    second: chairs|floor|Take 001|BaseLayer
+  - first:
+      74: -997518843171613803
+    second: chairs|piano|Take 001|BaseLayer
+  - first:
+      74: 4470744930725423772
+    second: chairs|seats|Take 001|BaseLayer
+  - first:
+      74: -5482836757761583825
+    second: chairs|seats|Take 001|BaseLayer.001
+  - first:
+      74: 2868482611540903951
+    second: chairs|walls|Take 001|BaseLayer
+  - first:
+      74: 7690538712843485033
+    second: ceiling|armrest|Take 001|BaseLayer
+  - first:
+      74: -1056079069381564499
+    second: ceiling|armrest|Take 001|BaseLayer.001
+  - first:
+      74: 8288218734115968631
+    second: ceiling|beams|Take 001|BaseLayer
+  - first:
+      74: -6107432683909179311
+    second: ceiling|ceiling|Take 001|BaseLayer
+  - first:
+      74: -8654656355129794830
+    second: ceiling|chairs|Take 001|BaseLayer
+  - first:
+      74: 8832678026269692972
+    second: ceiling|chairs|Take 001|BaseLayer.001
+  - first:
+      74: 4293820706108287712
+    second: ceiling|floor|Take 001|BaseLayer
+  - first:
+      74: -6681252773695085126
+    second: ceiling|piano|Take 001|BaseLayer
+  - first:
+      74: -2538675770836494887
+    second: ceiling|seats|Take 001|BaseLayer
+  - first:
+      74: -1759366218262400345
+    second: ceiling|seats|Take 001|BaseLayer.001
+  - first:
+      74: -14569599173563852
+    second: ceiling|walls|Take 001|BaseLayer
+  - first:
+      74: 7136364923324386531
+    second: armrest|armrest|Take 001|BaseLayer
+  - first:
+      74: -947570229456809944
+    second: armrest|armrest|Take 001|BaseLayer.001
+  - first:
+      74: -1789089106574005484
+    second: armrest|beams|Take 001|BaseLayer
+  - first:
+      74: -1946215789240309672
+    second: armrest|ceiling|Take 001|BaseLayer
+  - first:
+      74: 6101631409322319201
+    second: armrest|chairs|Take 001|BaseLayer
+  - first:
+      74: 2462693735576644537
+    second: armrest|chairs|Take 001|BaseLayer.001
+  - first:
+      74: -6452176111745189052
+    second: armrest|floor|Take 001|BaseLayer
+  - first:
+      74: 2330643880100968513
+    second: armrest|piano|Take 001|BaseLayer
+  - first:
+      74: 7159774850683068017
+    second: armrest|seats|Take 001|BaseLayer
+  - first:
+      74: 2470425617778976593
+    second: armrest|seats|Take 001|BaseLayer.001
+  - first:
+      74: 2747220565095678541
+    second: armrest|walls|Take 001|BaseLayer
+  - first:
+      74: 9173358674271930421
+    second: seats|armrest|Take 001|BaseLayer
+  - first:
+      74: 4156595296850320974
+    second: seats|armrest|Take 001|BaseLayer.001
+  - first:
+      74: 3940744118562201078
+    second: seats|beams|Take 001|BaseLayer
+  - first:
+      74: 4886886334668718848
+    second: seats|ceiling|Take 001|BaseLayer
+  - first:
+      74: 7395965483275724372
+    second: seats|chairs|Take 001|BaseLayer
+  - first:
+      74: -4578409624756621258
+    second: seats|chairs|Take 001|BaseLayer.001
+  - first:
+      74: -5924722571951552534
+    second: seats|floor|Take 001|BaseLayer
+  - first:
+      74: -8994982732088552345
+    second: seats|piano|Take 001|BaseLayer
+  - first:
+      74: 1452728024729581578
+    second: seats|seats|Take 001|BaseLayer
+  - first:
+      74: 7539728088743898621
+    second: seats|seats|Take 001|BaseLayer.001
+  - first:
+      74: 5230479167093772859
+    second: seats|walls|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: armrest
+    second: {fileID: 2100000, guid: 23f7825f5369ba74db89d86f2f2b541d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: beams
+    second: {fileID: 2100000, guid: e17850a0125f35d4890f7a97e1959b85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ceiling
+    second: {fileID: 2100000, guid: 51a6a74dd21485041bcbbc0a874ab8de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chairs
+    second: {fileID: 2100000, guid: 760480cc011a2404a9fe5a731b7cddeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: de8b08d758fe36a4eb0c35ab5aa692f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seats
+    second: {fileID: 2100000, guid: 0fd67c63724d29845ab970f14e2149b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls
+    second: {fileID: 2100000, guid: c5047fffbe011084cb85617e52791dd7, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
